@@ -1,8 +1,34 @@
 {
   "name": "desert-space-light",
-  "displayName": "desert-space-light",
+  "displayName": "Desert Space Light",
   "description": "Theme inspired by Japandi and the imaginary Desert planets.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "mihailomat",
+  "author": {
+    "name": "Mihailo Matijevic"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mihailomat/desert-space-light"
+  },
+  "homepage": "https://github.com/mihailomat/desert-space-light",
+  "keywords": [
+    "theme",
+    "light",
+    "japandi",
+    "desert",
+    "warm",
+		"minimal",
+		"dune",
+		"star wars",
+		"mandalorian"
+  ],
+  "galleryBanner": {
+    "color": "#E8E0D4",
+    "theme": "light"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
