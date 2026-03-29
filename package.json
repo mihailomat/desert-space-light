@@ -1,7 +1,7 @@
 {
   "name": "desert-space-light",
   "displayName": "desert-space-light",
-  "description": "Theme inspired by Japandi color palette and Desert planets in the unexplored space.",
+  "description": "Theme inspired by Japandi and the imaginary Desert planets.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.110.0"
