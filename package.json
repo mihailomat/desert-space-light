@@ -1,0 +1,21 @@
+{
+  "name": "desert-space-light",
+  "displayName": "desert-space-light",
+  "description": "Theme inspired by Japandi color palette and Desert planets in the unexplored space.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Desert Space Light",
+        "uiTheme": "vs",
+        "path": "./themes/Desert Space Light-color-theme.json"
+      }
+    ]
+  }
+}
