@@ -26,10 +26,10 @@ The foundation layer. These warm parchment tones replace the typical blue-gray b
 
 |                                                                      | Name             | Hex       | Usage                                    |
 |----------------------------------------------------------------------|------------------|-----------|------------------------------------------|
-| <img src="palette/FAF6F0.svg" width="16" height="16" alt="#FAF6F0"> | Desert sand base | `#FAF6F0` | Editor background as warm parchment white |
-| <img src="palette/F5EFE6.svg" width="16" height="16" alt="#F5EFE6"> | Panel sand       | `#F5EFE6` | Sidebars, panels, inactive tabs          |
-| <img src="palette/E8DFD1.svg" width="16" height="16" alt="#E8DFD1"> | Border dune      | `#E8DFD1` | All borders and dividers                 |
-| <img src="palette/D6CBBA.svg" width="16" height="16" alt="#D6CBBA"> | Deep sand        | `#D6CBBA` | Scroll tracks, deeper UI elements        |
+| <img src="palette/FAF6F0.png" width="16" height="16" alt="#FAF6F0"> | Desert sand base | `#FAF6F0` | Editor background as warm parchment white |
+| <img src="palette/F5EFE6.png" width="16" height="16" alt="#F5EFE6"> | Panel sand       | `#F5EFE6` | Sidebars, panels, inactive tabs          |
+| <img src="palette/E8DFD1.png" width="16" height="16" alt="#E8DFD1"> | Border dune      | `#E8DFD1` | All borders and dividers                 |
+| <img src="palette/D6CBBA.png" width="16" height="16" alt="#D6CBBA"> | Deep sand        | `#D6CBBA` | Scroll tracks, deeper UI elements        |
 
 ### Ancestral Silver Metal
 
@@ -37,10 +37,10 @@ The structural mid-tones. These warm silver-browns handle all the "infrastructur
 
 |                                                                      | Name                  | Hex       | Usage                                       |
 |----------------------------------------------------------------------|-----------------------|-----------|---------------------------------------------|
-| <img src="palette/9E958A.svg" width="16" height="16" alt="#9E958A"> | Silver metal muted    | `#9E958A` | Inactive text, inlay hints                  |
-| <img src="palette/B8A99A.svg" width="16" height="16" alt="#B8A99A"> | Silver metal mid      | `#B8A99A` | Line numbers, focus borders                 |
-| <img src="palette/7A7168.svg" width="16" height="16" alt="#7A7168"> | Silver metal polished | `#7A7168` | Active line numbers, operators, punctuation |
-| <img src="palette/5C544B.svg" width="16" height="16" alt="#5C544B"> | Silver metal dark     | `#5C544B` | Secondary foreground, diff text             |
+| <img src="palette/9E958A.png" width="16" height="16" alt="#9E958A"> | Silver metal muted    | `#9E958A` | Inactive text, inlay hints                  |
+| <img src="palette/B8A99A.png" width="16" height="16" alt="#B8A99A"> | Silver metal mid      | `#B8A99A` | Line numbers, focus borders                 |
+| <img src="palette/7A7168.png" width="16" height="16" alt="#7A7168"> | Silver metal polished | `#7A7168` | Active line numbers, operators, punctuation |
+| <img src="palette/5C544B.png" width="16" height="16" alt="#5C544B"> | Silver metal dark     | `#5C544B` | Secondary foreground, diff text             |
 
 ### Space Traveller's Armor / Title Bar
 
@@ -48,9 +48,9 @@ The dark chrome tones anchor the top of the editor. The title bar uses deep warm
 
 |                                                                      | Name         | Hex       | Usage                              |
 |----------------------------------------------------------------------|--------------|-----------|------------------------------------|
-| <img src="palette/2E2923.svg" width="16" height="16" alt="#2E2923"> | Helmet visor | `#2E2923` | Title bar, primary foreground text |
-| <img src="palette/3D3630.svg" width="16" height="16" alt="#3D3630"> | Armor plate  | `#3D3630` | Title bar inactive state           |
-| <img src="palette/B8860B.svg" width="16" height="16" alt="#B8860B"> | Command gold | `#B8860B` | Command center accent              |
+| <img src="palette/2E2923.png" width="16" height="16" alt="#2E2923"> | Helmet visor | `#2E2923` | Title bar, primary foreground text |
+| <img src="palette/3D3630.png" width="16" height="16" alt="#3D3630"> | Armor plate  | `#3D3630` | Title bar inactive state           |
+| <img src="palette/B8860B.png" width="16" height="16" alt="#B8860B"> | Command gold | `#B8860B` | Command center accent              |
 
 ### Accent: The Child Green
 
@@ -58,10 +58,10 @@ The primary accent color. Used for active states, selections, and, crucially, st
 
 |                                                                      | Name            | Hex       | Usage                                                     |
 |----------------------------------------------------------------------|-----------------|-----------------------------------------------------------|------------------------------------------------------------|
-| <img src="palette/6B8F71.svg" width="16" height="16" alt="#6B8F71"> | The Child sage  | `#6B8F71` | Active tab border, activity bar indicator, primary accent |
-| <img src="palette/3E6B45.svg" width="16" height="16" alt="#3E6B45"> | The Child deep  | `#3E6B45` | Strings, git added files, doc comments                    |
-| <img src="palette/C8DBBE.svg" width="16" height="16" alt="#C8DBBE"> | The Child light | `#C8DBBE` | Active selections, list active background                 |
-| <img src="palette/D4E4D1.svg" width="16" height="16" alt="#D4E4D1"> | The Child pale  | `#D4E4D1` | Word highlights, find match, markup insertions            |
+| <img src="palette/6B8F71.png" width="16" height="16" alt="#6B8F71"> | The Child sage  | `#6B8F71` | Active tab border, activity bar indicator, primary accent |
+| <img src="palette/3E6B45.png" width="16" height="16" alt="#3E6B45"> | The Child deep  | `#3E6B45` | Strings, git added files, doc comments                    |
+| <img src="palette/C8DBBE.png" width="16" height="16" alt="#C8DBBE"> | The Child light | `#C8DBBE` | Active selections, list active background                 |
+| <img src="palette/D4E4D1.png" width="16" height="16" alt="#D4E4D1"> | The Child pale  | `#D4E4D1` | Word highlights, find match, markup insertions            |
 
 ### Accent: Desert Terracotta
 
@@ -69,8 +69,8 @@ The warm highlight tone. Terracotta marks immutable values in your code (numbers
 
 |                                                                      | Name            | Hex       | Usage                                            |
 |----------------------------------------------------------------------|-----------------|-----------|--------------------------------------------------|
-| <img src="palette/B5623F.svg" width="16" height="16" alt="#B5623F"> | Terracotta      | `#B5623F` | Numbers, constants, CSS property names, headings |
-| <img src="palette/FCEBD5.svg" width="16" height="16" alt="#FCEBD5"> | Terracotta glow | `#FCEBD5` | Find match highlight background                  |
+| <img src="palette/B5623F.png" width="16" height="16" alt="#B5623F"> | Terracotta      | `#B5623F` | Numbers, constants, CSS property names, headings |
+| <img src="palette/FCEBD5.png" width="16" height="16" alt="#FCEBD5"> | Terracotta glow | `#FCEBD5` | Find match highlight background                  |
 
 ### Accent: Desert Planet Sky
 
@@ -78,8 +78,8 @@ The cool counterpoint. Every warm palette needs a touch of blue to prevent monot
 
 |                                                                      | Name      | Hex       | Usage                               |
 |----------------------------------------------------------------------|-----------|-----------|-------------------------------------|
-| <img src="palette/5B7DA6.svg" width="16" height="16" alt="#5B7DA6"> | Dusk blue | `#5B7DA6` | Links, regex, markup lists          |
-| <img src="palette/3D5A80.svg" width="16" height="16" alt="#3D5A80"> | Twilight  | `#3D5A80` | HTML attributes, git modified files |
+| <img src="palette/5B7DA6.png" width="16" height="16" alt="#5B7DA6"> | Dusk blue | `#5B7DA6` | Links, regex, markup lists          |
+| <img src="palette/3D5A80.png" width="16" height="16" alt="#3D5A80"> | Twilight  | `#3D5A80` | HTML attributes, git modified files |
 
 ### Accent: Desert Scavenger Amber
 
@@ -87,8 +87,8 @@ A golden amber used sparingly for high-visibility moments, the active find match
 
 |                                                                      | Name                  | Hex       | Usage                                           |
 |----------------------------------------------------------------------|-----------------------|-----------|-------------------------------------------------|
-| <img src="palette/D4A017.svg" width="16" height="16" alt="#D4A017"> | Desert scavenger eyes | `#D4A017` | Active find match                               |
-| <img src="palette/8B6914.svg" width="16" height="16" alt="#8B6914"> | Sand creature pearl   | `#8B6914` | CSS selectors, markup quotes, JS function names |
+| <img src="palette/D4A017.png" width="16" height="16" alt="#D4A017"> | Desert scavenger eyes | `#D4A017` | Active find match                               |
+| <img src="palette/8B6914.png" width="16" height="16" alt="#8B6914"> | Sand creature pearl   | `#8B6914` | CSS selectors, markup quotes, JS function names |
 
 ### Syntax: Dark Earth Tones
 
@@ -96,11 +96,11 @@ The core syntax palette. These are the colors that do the real work of making co
 
 |                                                                      | Name                  | Hex       | Role                                        | Why this color                                                     |
 |----------------------------------------------------------------------|-----------------------|-----------|---------------------------------------------|--------------------------------------------------------------------|
-| <img src="palette/6E4B2D.svg" width="16" height="16" alt="#6E4B2D"> | Companion mount brown | `#6E4B2D` | Keywords (`const`, `if`, `class`, `import`) | Bold and grounded so that keywords define your code's structure          |
-| <img src="palette/704214.svg" width="16" height="16" alt="#704214"> | Robe brown            | `#704214` | Variables, instance properties               | Slightly warmer for the things that change and carry state           |
-| <img src="palette/7B3F61.svg" width="16" height="16" alt="#7B3F61"> | Ancient beast         | `#7B3F61` | Functions, object keys                       | A dusky purple-brown for the verbs of your code, distinct from nouns |
-| <img src="palette/5E3A1A.svg" width="16" height="16" alt="#5E3A1A"> | Sand creature         | `#5E3A1A` | Exceptions, errors                           | Deep and dark for the elements that draw appropriate attention to danger              |
-| <img src="palette/2E8B8B.svg" width="16" height="16" alt="#2E8B8B"> | Oasis teal            | `#2E8B8B` | Object references (JS)                       | A rare cool tone that marks the objects you're reaching into          |
+| <img src="palette/6E4B2D.png" width="16" height="16" alt="#6E4B2D"> | Companion mount brown | `#6E4B2D` | Keywords (`const`, `if`, `class`, `import`) | Bold and grounded so that keywords define your code's structure          |
+| <img src="palette/704214.png" width="16" height="16" alt="#704214"> | Robe brown            | `#704214` | Variables, instance properties               | Slightly warmer for the things that change and carry state           |
+| <img src="palette/7B3F61.png" width="16" height="16" alt="#7B3F61"> | Ancient beast         | `#7B3F61` | Functions, object keys                       | A dusky purple-brown for the verbs of your code, distinct from nouns |
+| <img src="palette/5E3A1A.png" width="16" height="16" alt="#5E3A1A"> | Sand creature         | `#5E3A1A` | Exceptions, errors                           | Deep and dark for the elements that draw appropriate attention to danger              |
+| <img src="palette/2E8B8B.png" width="16" height="16" alt="#2E8B8B"> | Oasis teal            | `#2E8B8B` | Object references (JS)                       | A rare cool tone that marks the objects you're reaching into          |
 
 ## Token-to-Color Quick Reference
 
@@ -126,10 +126,13 @@ For theme developers who want to understand or modify the syntax mapping:
 
 ## Installation
 
-### From Marketpace
+### From VS Code Marketplace
 
-1. Select **Preferences: Color Theme**
-2. Choose **Desert Space Light**
+1. Open the **Extensions** view (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+2. Search for **Desert Space Light**
+3. Click **Install**
+4. Open **Preferences: Color Theme** (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`)
+5. Choose **Desert Space Light**
 
 ### Recommended settings
 
