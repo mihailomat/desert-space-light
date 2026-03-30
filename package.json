@@ -17,16 +17,12 @@
   "keywords": [
     "theme",
     "light",
-    "japandi",
-    "desert",
     "warm",
-		"minimal",
-		"dune",
-		"star wars",
-		"mandalorian"
+    "desert",
+    "japandi"
   ],
   "galleryBanner": {
-    "color": "#E8E0D4",
+    "color": "#E8DFD1",
     "theme": "light"
   },
   "engines": {
