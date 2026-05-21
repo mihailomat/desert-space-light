@@ -489,10 +489,11 @@
 			}
 		},
 		{
-			"name": "Markup: Strong",
+			"name": "Markup Bold — green",
 			"scope": "markup.bold",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": "bold",
+				"foreground": "#3E6B45"
 			}
 		},
 		{
@@ -524,12 +525,10 @@
 			}
 		},
 		{
-			"name": "Markup Styling — the child green",
-			"scope": [
-				"markup.bold",
-				"markup.italic"
-			],
+			"name": "Markup Italic — green",
+			"scope": "markup.italic",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#3E6B45"
 			}
 		},
