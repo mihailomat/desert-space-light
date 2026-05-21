@@ -670,7 +670,7 @@
 		},
 		{
 			"name": "constant.language",
-			"scope": "constant.language ",
+			"scope": "constant.language",
 			"settings": {
 				"foreground": "#6E4B2D",
 				"fontStyle": ""
