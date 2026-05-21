@@ -202,8 +202,7 @@
 			"name": "Language Constants — terracotta warmth",
 			"scope": [
 				"constant.language",
-				"support.constant",
-				"variable.language"
+				"support.constant"
 			],
 			"settings": {
 				"foreground": "#B5623F"
