@@ -39,5 +39,8 @@
         "path": "./themes/Desert Space Light-color-theme.json"
       }
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/mihailomat/desert-space-light/issues"
   }
 }
