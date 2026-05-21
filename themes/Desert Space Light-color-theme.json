@@ -653,13 +653,6 @@
 			}
 		},
 		{
-			"name": "entity.name.function.js — sand creature amber",
-			"scope": "entity.name.function.js",
-			"settings": {
-				"foreground": "#8B6914"
-			}
-		},
-		{
 			"name": "variable.parameter.js",
 			"scope": "variable.parameter.js",
 			"settings": {
