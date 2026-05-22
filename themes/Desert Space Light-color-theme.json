@@ -156,17 +156,9 @@
 			}
 		},
 		{
-			"name": "Invalid - Deprecated",
-			"scope": "invalid.deprecated",
-			"settings": {
-				"background": "#C0503A14"
-			}
-		},
-		{
 			"name": "Invalid - Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"background": "#C0503A14",
 				"foreground": "#C0503A"
 			}
 		},
@@ -422,7 +414,6 @@
 			"name": "Markup: Changed",
 			"scope": "markup.changed",
 			"settings": {
-				"background": "#FCEBD5",
 				"foreground": "#2E2923"
 			}
 		},
@@ -430,7 +421,6 @@
 			"name": "Markup: Deletion",
 			"scope": "markup.deleted",
 			"settings": {
-				"background": "#F5D5CC",
 				"foreground": "#2E2923"
 			}
 		},
@@ -445,7 +435,6 @@
 			"name": "Markup: Error",
 			"scope": "markup.error",
 			"settings": {
-				"background": "#C0503A14",
 				"foreground": "#5E3A1A"
 			}
 		},
@@ -453,7 +442,6 @@
 			"name": "Markup: Insertion",
 			"scope": "markup.inserted",
 			"settings": {
-				"background": "#D4E4D1",
 				"foreground": "#2E2923"
 			}
 		},
@@ -548,7 +536,6 @@
 				"meta.separator"
 			],
 			"settings": {
-				"background": "#E8DFD1",
 				"foreground": "#5C544B"
 			}
 		},
@@ -556,7 +543,6 @@
 			"name": "Extra: Diff From",
 			"scope": "meta.diff.header.from-file",
 			"settings": {
-				"background": "#F5D5CC",
 				"foreground": "#5C544B"
 			}
 		},
@@ -564,7 +550,6 @@
 			"name": "Extra: Diff To",
 			"scope": "meta.diff.header.to-file",
 			"settings": {
-				"background": "#D4E4D1",
 				"foreground": "#5C544B"
 			}
 		},
