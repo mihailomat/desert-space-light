@@ -6,6 +6,22 @@ Anyone who knows me professionally knows I've been struggling with the switch fr
 
 The color palette is inspired by the desert planets of the fictional universes, such as Tatooine from Star Wars and Arrakis from the Dune books and the new movies (the old one aged like milk). Generally, I find Star Wars Mandalorian series aesthetic quite appealing and meditative. I drew a lot of inspiration from Beskar armor, terracotta dunes, Grogu's sage-green robes, the amber eyes of Jawas... Turns out all of that makes for a great light theme. A lot of elements are bright, warm and use a narrow range of earth tones with just enough contrast to keep things readable. The overall aesthetic leans Japandi, that Japanese-Scandinavian blend of clean lines, warm neutrals and functional minimalism where nothing is there unless it earns its place.
 
+## Screenshots
+
+![Vue and TypeScript](screenshots/vue-typescript.png)
+*Vue component with TypeScript — setup script, template and style sections*
+
+![TypeScript and SCSS](screenshots/typescript-scss.png)
+*TypeScript file alongside SCSS design tokens*
+
+![TypeScript and JS](screenshots/angular-js.png)
+*Split view: Angular component (TypeScript) and a JavaScript file side by side*
+
+![React TSX](screenshots/react-tsx.png)
+*React file in TSX with errors*
+
+Screenshots use [JetBrains Mono](https://www.jetbrains.com/lp/mono/) at 13px with line height 1.6.
+
 ## Design Principles
 
 I started from IntelliJ IDEA's New UI light theme. To me it's one of the most well-balanced light themes out there. I didn't want to reinvent the structural hierarchy, just shift the entire temperature from cool blue-gray to warm desert sand.
@@ -18,7 +34,7 @@ I started from IntelliJ IDEA's New UI light theme. To me it's one of the most we
 
 ## Color Philosophy
 
-The palette draws from desert landscapes, weathered metal, terracotta clay, and the greens of sparse desert vegetation. Each color family maps to a specific role in both the UI chrome and syntax highlighting.
+The palette draws from desert landscapes, weathered metal, terracotta clay and the greens of sparse desert vegetation. Each color family maps to a specific role in both the UI chrome and syntax highlighting.
 
 ### Sand / Background Tones
 
@@ -54,7 +70,7 @@ The dark chrome tones anchor the top of the editor. The title bar uses deep warm
 
 ### Accent: The Child Green
 
-The primary accent color. Used for active states, selections, and, crucially, string literals in syntax highlighting. Green signals "living data" in code: the values your program works with at runtime. This sage-to-forest range also handles git additions and documentation comments.
+The primary accent color. Used for active states, selections and, crucially, string literals in syntax highlighting. Green signals "living data" in code: the values your program works with at runtime. This sage-to-forest range also handles git additions and documentation comments.
 
 |                                                                      | Name            | Hex       | Usage                                                     |
 |----------------------------------------------------------------------|-----------------|-----------------------------------------------------------|------------------------------------------------------------|
@@ -141,8 +157,8 @@ These editor settings complement the theme well:
 ```json
 {
   "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace",
-  "editor.fontSize": 14,
-  "editor.lineHeight": 1.7,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 1.6,
   "editor.bracketPairColorization.enabled": false,
   "editor.renderLineHighlight": "all",
   "editor.cursorBlinking": "smooth",
