@@ -4,6 +4,12 @@ All notable changes to the "desert-space-light" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.1] - 2026-05-22
+
+### Fixed
+
+- Added a nicer theme icon that both new and potential users can enjoy.
+
 ## [1.1.0] - 2026-05-22
 
 ### Fixed
