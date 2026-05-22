@@ -3,6 +3,7 @@
 	"colors": {
 		"focusBorder": "#B8A99A",
 		"widget.border": "#E8DFD1",
+		"disabledForeground": "#7A7168",
 
 		"editor.background": "#FAF6F0",
 		"editor.foreground": "#2E2923",
