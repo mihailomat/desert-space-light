@@ -27,8 +27,8 @@
 		"breadcrumb.background": "#F5EFE6",
 		"editorInlayHint.foreground": "#9E958A",
 		"editorInlayHint.background": "#F5EFE6",
-		"editorIndentGuide.activeBackground": "#B8A99A",
-		"editorIndentGuide.background": "#E8DFD1",
+		"editorIndentGuide.activeBackground1": "#B8A99A",
+		"editorIndentGuide.background1": "#E8DFD1",
 		"editorWidget.border": "#E8DFD1",
 		"editorWidget.background": "#F5EFE6",
 
