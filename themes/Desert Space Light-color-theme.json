@@ -53,6 +53,18 @@
 		"scrollbarSlider.background": "#9E958A33",
 		"editorOverviewRuler.background": "#F5EFE6",
 		"editorOverviewRuler.border": "#F5EFE6",
+		"editorOverviewRuler.errorForeground": "#C0503A",
+		"editorOverviewRuler.warningForeground": "#B8860B",
+		"editorOverviewRuler.infoForeground": "#5B7DA6",
+
+		"editorError.foreground": "#C0503A",
+		"editorWarning.foreground": "#B8860B",
+		"editorInfo.foreground": "#5B7DA6",
+		"editorHint.foreground": "#9E958A",
+
+		"problemsErrorIcon.foreground": "#C0503A",
+		"problemsWarningIcon.foreground": "#B8860B",
+		"problemsInfoIcon.foreground": "#5B7DA6",
 
 		"activityBar.background": "#F5EFE6",
 		"activityBar.foreground": "#2E2923",
