@@ -40,33 +40,39 @@ The palette draws from desert landscapes, weathered metal, terracotta clay and t
 
 The foundation layer. These warm parchment tones replace the typical blue-gray backgrounds found in most light themes. The subtle warmth reduces perceived harshness without sacrificing readability.
 
-|                                                                      | Name             | Hex       | Usage                                    |
-|----------------------------------------------------------------------|------------------|-----------|------------------------------------------|
+|                                                                      | Name             | Hex       | Usage                                     |
+|----------------------------------------------------------------------|------------------|-----------|-------------------------------------------|
 | <img src="palette/FAF6F0.png" width="16" height="16" alt="#FAF6F0"> | Desert sand base | `#FAF6F0` | Editor background as warm parchment white |
-| <img src="palette/F5EFE6.png" width="16" height="16" alt="#F5EFE6"> | Panel sand       | `#F5EFE6` | Sidebars, panels, inactive tabs          |
-| <img src="palette/E8DFD1.png" width="16" height="16" alt="#E8DFD1"> | Border dune      | `#E8DFD1` | All borders and dividers                 |
-| <img src="palette/D6CBBA.png" width="16" height="16" alt="#D6CBBA"> | Deep sand        | `#D6CBBA` | Scroll tracks, deeper UI elements        |
+| <img src="palette/F5EFE6.png" width="16" height="16" alt="#F5EFE6"> | Panel sand       | `#F5EFE6` | Sidebars, panels, inactive tabs           |
+| <img src="palette/F0EBE2.png" width="16" height="16" alt="#F0EBE2"> | Sand ripple      | `#F0EBE2` | Current line highlight                    |
+| <img src="palette/EDE7DC.png" width="16" height="16" alt="#EDE7DC"> | Sand drift       | `#EDE7DC` | List and tree hover                       |
+| <img src="palette/E8DFD1.png" width="16" height="16" alt="#E8DFD1"> | Border dune      | `#E8DFD1` | All borders and dividers, find range      |
+| <img src="palette/E4DCD0.png" width="16" height="16" alt="#E4DCD0"> | Sand hollow      | `#E4DCD0` | List focus and inactive selection         |
+| <img src="palette/D6CBBA.png" width="16" height="16" alt="#D6CBBA"> | Deep sand        | `#D6CBBA` | Word highlight, read occurrences          |
 
 ### Ancestral Silver Metal
 
 The structural mid-tones. These warm silver-browns handle all the "infrastructure" text (line numbers, operators, punctuation), the things you need to see but shouldn't compete with your actual code.
 
-|                                                                      | Name                  | Hex       | Usage                                       |
-|----------------------------------------------------------------------|-----------------------|-----------|---------------------------------------------|
-| <img src="palette/9E958A.png" width="16" height="16" alt="#9E958A"> | Silver metal muted    | `#9E958A` | Inactive text, inlay hints                  |
-| <img src="palette/B8A99A.png" width="16" height="16" alt="#B8A99A"> | Silver metal mid      | `#B8A99A` | Line numbers, focus borders                 |
-| <img src="palette/7A7168.png" width="16" height="16" alt="#7A7168"> | Silver metal polished | `#7A7168` | Active line numbers, operators, punctuation |
-| <img src="palette/5C544B.png" width="16" height="16" alt="#5C544B"> | Silver metal dark     | `#5C544B` | Secondary foreground, diff text             |
+|                                                                      | Name                  | Hex       | Usage                                             |
+|----------------------------------------------------------------------|-----------------------|-----------|---------------------------------------------------|
+| <img src="palette/B8A99A.png" width="16" height="16" alt="#B8A99A"> | Silver metal mid      | `#B8A99A` | Line numbers, focus borders, write occurrences    |
+| <img src="palette/B0A898.png" width="16" height="16" alt="#B0A898"> | Faded sand            | `#B0A898` | Comments                                          |
+| <img src="palette/9E958A.png" width="16" height="16" alt="#9E958A"> | Silver metal muted    | `#9E958A` | Inactive text, inlay hints, scrollbar and minimap |
+| <img src="palette/7A7168.png" width="16" height="16" alt="#7A7168"> | Silver metal polished | `#7A7168` | Active line numbers, operators, punctuation       |
+| <img src="palette/5C544B.png" width="16" height="16" alt="#5C544B"> | Silver metal dark     | `#5C544B` | Secondary foreground, diff text                   |
 
 ### Space Traveller's Armor / Title Bar
 
 The dark chrome tones anchor the top of the editor. The title bar uses deep warm darks that ground the interface, while the gold accent in the command center provides a distinctive focal point.
 
-|                                                                      | Name         | Hex       | Usage                              |
-|----------------------------------------------------------------------|--------------|-----------|------------------------------------|
-| <img src="palette/2E2923.png" width="16" height="16" alt="#2E2923"> | Helmet visor | `#2E2923` | Title bar, primary foreground text |
-| <img src="palette/3D3630.png" width="16" height="16" alt="#3D3630"> | Armor plate  | `#3D3630` | Title bar inactive state           |
-| <img src="palette/B8860B.png" width="16" height="16" alt="#B8860B"> | Command gold | `#B8860B` | Command center accent              |
+|                                                                      | Name              | Hex       | Usage                              |
+|----------------------------------------------------------------------|-------------------|-----------|------------------------------------|
+| <img src="palette/2E2923.png" width="16" height="16" alt="#2E2923"> | Helmet visor      | `#2E2923` | Title bar, primary foreground text |
+| <img src="palette/3A342E.png" width="16" height="16" alt="#3A342E"> | Armor seam        | `#3A342E` | Default syntax foreground          |
+| <img src="palette/3D3630.png" width="16" height="16" alt="#3D3630"> | Armor plate       | `#3D3630` | Title bar inactive state           |
+| <img src="palette/B8860B.png" width="16" height="16" alt="#B8860B"> | Command gold      | `#B8860B` | Command center accent              |
+| <img src="palette/9E7209.png" width="16" height="16" alt="#9E7209"> | Command gold deep | `#9E7209` | Command center active state        |
 
 ### Accent: The Child Green
 
@@ -76,8 +82,7 @@ The primary accent color. Used for active states, selections and, crucially, str
 |----------------------------------------------------------------------|-----------------|-----------------------------------------------------------|------------------------------------------------------------|
 | <img src="palette/6B8F71.png" width="16" height="16" alt="#6B8F71"> | The Child sage  | `#6B8F71` | Active tab border, activity bar indicator, primary accent |
 | <img src="palette/3E6B45.png" width="16" height="16" alt="#3E6B45"> | The Child deep  | `#3E6B45` | Strings, git added files, doc comments                    |
-| <img src="palette/C8DBBE.png" width="16" height="16" alt="#C8DBBE"> | The Child light | `#C8DBBE` | Active selections, list active background                 |
-| <img src="palette/D4E4D1.png" width="16" height="16" alt="#D4E4D1"> | The Child pale  | `#D4E4D1` | Word highlights, find match, markup insertions            |
+| <img src="palette/C8DBBE.png" width="16" height="16" alt="#C8DBBE"> | The Child light | `#C8DBBE` | Selections, selection occurrences, list active background |
 
 ### Accent: Desert Terracotta
 
@@ -86,7 +91,7 @@ The warm highlight tone. Terracotta marks immutable values in your code (numbers
 |                                                                      | Name            | Hex       | Usage                                            |
 |----------------------------------------------------------------------|-----------------|-----------|--------------------------------------------------|
 | <img src="palette/B5623F.png" width="16" height="16" alt="#B5623F"> | Terracotta      | `#B5623F` | Numbers, constants, CSS property names, headings |
-| <img src="palette/FCEBD5.png" width="16" height="16" alt="#FCEBD5"> | Terracotta glow | `#FCEBD5` | Find match highlight background                  |
+| <img src="palette/C0503A.png" width="16" height="16" alt="#C0503A"> | Fired clay      | `#C0503A` | Errors, invalid syntax, terminal red             |
 
 ### Accent: Desert Planet Sky
 
@@ -103,8 +108,8 @@ A golden amber used sparingly for high-visibility moments, the active find match
 
 |                                                                      | Name                  | Hex       | Usage                                           |
 |----------------------------------------------------------------------|-----------------------|-----------|-------------------------------------------------|
-| <img src="palette/D4A017.png" width="16" height="16" alt="#D4A017"> | Desert scavenger eyes | `#D4A017` | Active find match                               |
-| <img src="palette/8B6914.png" width="16" height="16" alt="#8B6914"> | Sand creature pearl   | `#8B6914` | CSS selectors, markup quotes, JS function names |
+| <img src="palette/D4A017.png" width="16" height="16" alt="#D4A017"> | Desert scavenger eyes | `#D4A017` | Find matches, active and inactive               |
+| <img src="palette/8B6914.png" width="16" height="16" alt="#8B6914"> | Sand creature pearl   | `#8B6914` | Find match border, CSS selectors, markup quotes |
 
 ### Syntax: Dark Earth Tones
 
@@ -117,6 +122,15 @@ The core syntax palette. These are the colors that do the real work of making co
 | <img src="palette/7B3F61.png" width="16" height="16" alt="#7B3F61"> | Ancient beast         | `#7B3F61` | Functions, object keys                       | A dusky purple-brown for the verbs of your code, distinct from nouns |
 | <img src="palette/5E3A1A.png" width="16" height="16" alt="#5E3A1A"> | Sand creature         | `#5E3A1A` | Exceptions, errors                           | Deep and dark for the elements that draw appropriate attention to danger              |
 | <img src="palette/2E8B8B.png" width="16" height="16" alt="#2E8B8B"> | Oasis teal            | `#2E8B8B` | Object references (JS)                       | A rare cool tone that marks the objects you're reaching into          |
+
+### Terminal
+
+The integrated terminal maps the sixteen ANSI slots onto the families above. Two tones live only here, as the lighter counterparts the terminal needs but the editor never calls for.
+
+|                                                                      | Name                | Hex       | Usage                 |
+|----------------------------------------------------------------------|---------------------|-----------|-----------------------|
+| <img src="palette/5A8F8F.png" width="16" height="16" alt="#5A8F8F"> | Oasis teal light    | `#5A8F8F` | Terminal bright cyan  |
+| <img src="palette/8B4570.png" width="16" height="16" alt="#8B4570"> | Ancient beast light | `#8B4570` | Terminal magenta      |
 
 ## Token-to-Color Quick Reference
 
@@ -138,7 +152,7 @@ For theme developers who want to understand or modify the syntax mapping:
 | CSS properties | Terracotta | `#B5623F` |
 | CSS values | The Child deep | `#3E6B45` |
 | Regex | Dusk blue | `#5B7DA6` |
-| Invalid/illegal | Sand creature on warning bg | `#C0503A` |
+| Invalid/illegal | Fired clay | `#C0503A` |
 
 ## Installation
 

@@ -15,13 +15,14 @@
 		"editor.lineHighlightBackground": "#F0EBE2",
 		"editor.selectionBackground": "#C8DBBE",
 		"editor.selectionForeground": "#2E2923",
-		"editor.wordHighlightStrongBackground": "#F5DCC87F",
-		"editor.wordHighlightBackground": "#D4E4D180",
-		"editor.selectionHighlightBackground": "#D4E4D17F",
+		"editor.wordHighlightStrongBackground": "#B8A99A99",
+		"editor.wordHighlightBackground": "#D6CBBA99",
+		"editor.selectionHighlightBackground": "#C8DBBECC",
 		"editor.findMatchBackground": "#D4A01799",
-		"editor.findMatchBorder": "#D4A01799",
-		"editor.findMatchHighlightBackground": "#FCEBD566",
+		"editor.findMatchBorder": "#8B6914",
+		"editor.findMatchHighlightBackground": "#D4A01733",
 		"editor.findMatchHighlightBorder": "#B8860B99",
+		"editor.findRangeHighlightBackground": "#E8DFD180",
 
 		"editorGroupHeader.tabsBackground": "#F5EFE6",
 		"editorGroupHeader.noTabsBackground": "#F5EFE6",
@@ -50,8 +51,12 @@
 		"tab.border": "#E8DFD1",
 
 		"minimap.background": "#F5EFE6",
-		"minimapSlider.background": "#9E958A33",
-		"scrollbarSlider.background": "#9E958A33",
+		"minimapSlider.background": "#9E958A4D",
+		"minimapSlider.hoverBackground": "#9E958A66",
+		"minimapSlider.activeBackground": "#9E958A80",
+		"scrollbarSlider.background": "#9E958A66",
+		"scrollbarSlider.hoverBackground": "#9E958A80",
+		"scrollbarSlider.activeBackground": "#9E958A99",
 		"editorOverviewRuler.background": "#F5EFE6",
 		"editorOverviewRuler.border": "#F5EFE6",
 		"editorOverviewRuler.errorForeground": "#C0503A",
@@ -137,7 +142,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#3A342Eff",
+				"foreground": "#3A342Eff"
 			}
 		},
 		{
